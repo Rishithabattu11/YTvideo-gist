@@ -1,4 +1,4 @@
-## YTvideo-gist##
+## YTvideo-gist ##
 
 This repository contains a Streamlit-based web application that summarizes YouTube videos using OpenAI’s language model. The application extracts the transcript of a YouTube video and generates a concise summary.
 
